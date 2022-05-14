@@ -5,6 +5,7 @@ About This is an android application for our college students, so that they can 
 * CRUD operations on every feature (Notice, E-Book, Assignment, Faculty, Gallery)
 # Demo
 Light Mode: https://drive.google.com/file/d/1_OSTFUODYoIMWePNRSanYvPuaLjoPFzd/view?usp=sharing
+
 Dark Mode: https://drive.google.com/file/d/1EiNLBBcgnq5GVIwmSL5oNsP_p2JDGyZu/view?usp=sharing
 # Tech Used
 Software: Android Studio
