@@ -2,7 +2,8 @@
 About This is an android application for our college students, so that they can access some sort of material and information from this application itself.
 # Features
 * Light/dark mode
-* CRUD operations on every feature (Notice, E-Book, Assignment, Faculty, Gallery)
+* College Notice Updates
+* Online access to college materials
 # Demo
 Light Mode: https://drive.google.com/file/d/1_OSTFUODYoIMWePNRSanYvPuaLjoPFzd/view?usp=sharing
 
